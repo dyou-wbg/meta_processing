@@ -6,5 +6,8 @@
 * Sector
 * Panel
 * Category
+
+  \\
+  
 Looks like Category columns contains related but further elaborated information of Panels except those 4k rows with missing values. 4K out of 11K is 37%. However, panel info is more complete. 
 
